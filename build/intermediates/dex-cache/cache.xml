@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\Rohit\Desktop\code\ASUChatBot\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_02c6806b599206f03e2ea0f8d4975efb005bc6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\d23e47bcec65daa5055279b55b98f818b2e7a0cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\Rohit\Desktop\code\ASUChatBot\app\build\intermediates\pre-dexed\debug\classes_d4d4a0900d0d5159835220e96fdf489379ba3902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohit\.android\build-cache\13775b8a074b40737147233e448aa25c884550fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="80770e8fcaf07c43818d609d8fdc8a94c2b2c26a">
+        <dex dex="C:\Users\Rohit\Desktop\code\ASUChatBot\app\build\intermediates\pre-dexed\debug\classes_f1c2f7197411dc39646cb7d6ca798ffe4f41f296.jar" />
+    </item>
+
+</items>
